@@ -1,0 +1,17 @@
+.second-section {
+  color: #FCFDFE;
+  background-color: #163d6f;
+  padding: 0 200px;
+}
+.second-section h3 {
+  font-size: 50px;
+  font-weight: 700;
+  margin-bottom: 60px;
+}
+.second-section p {
+  font-size: 20px;
+  font-weight: 300;
+  line-height: 33px;
+  text-align: justify;
+  margin-bottom: 10px;
+}

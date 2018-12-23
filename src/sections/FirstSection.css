@@ -1,0 +1,20 @@
+.first-section{
+  color: #163d6f;
+  background-color: #FCFDFE;
+}
+h1.title {
+  font-size: 65px;
+  font-weight: 700;
+}
+.first-section h2 {
+  font-size: 32px;
+  font-weight: 300;
+  margin: 30px 0 15px 0;
+}
+.hashtags {
+  margin: 10px 0 30px 0;
+  color: #a3b1bc;
+}
+.social-icon {
+  margin: 0 5px;
+}

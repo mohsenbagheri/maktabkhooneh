@@ -1,0 +1,23 @@
+.cards-wrapper{
+  width: 900px;
+  margin: 20px auto 0 auto;
+}
+.image-wrapper {
+  width: 100px;
+  margin: 0 auto;
+}
+.colm-card {
+  float: left;
+  width: 33.33%;
+  padding: 20px;
+}
+.card {
+  background: #fff;
+  box-shadow: 3px 3px 15px #d6d6d6;
+  border-radius: 8px;
+  padding: 40px 20px;
+}
+.skill-title-wrapper h4 {
+  font-size: 18px;
+  margin-top: 30px;
+}

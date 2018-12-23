@@ -1,0 +1,86 @@
+{
+    "title": "Hello, I'm Mohsen!",
+    "subtitle": "Full Stack Dev | UI Designer | SEO Specialist | Blogger",
+    "hashtags": "#Wordpress #Laravel #PHP #JavaScript #React #Html #Css #Seo",
+    "links": {
+        "website": "https://mohsenbagheri.ir",
+        "github": "https://github.com/mohsenbagheri",
+        "instagram": "https://instagram.com/mohsenbagheri.ir",
+        "twitter": "https://twitter.com/mohsenbagheri__",
+        "linkedin": "https://www.linkedin.com/in/mohsenbagheri/",
+        "email": "mailto:me@mohsenbagheri.ir"
+    },
+    "sections":[
+        {
+            "title": "About",
+            "items": [
+                {
+                    "type": "p",
+                    "content": "Hi! I am Mohsen and 21 years old, always looking for new challenges for learning new skills and currently I am working in web design and web development fields."
+                },
+                {
+                    "type": "p",
+                    "content": "My Interests are Planning and developing startups, entrepreneurship ideas, digital marketing, blogging, studying Google algorithms, programming and studying books"
+                },
+                {
+                    "type": "p",
+                    "content": "And My Skills are Designing User interface and user experience (UI/UX), SEO and website optimization, Front-End Development with Html,Css,JavaScript,React, ... and Develop website with Wordpress or Laravel Framework of PHP."
+                }
+            ]
+        },
+        {
+            "title": "Skills",
+            "items": [
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "images/react.png",
+                        "title": "React"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "images/laravel.png",
+                        "title": "Laravel"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "images/wordpress.png",
+                        "title": "Wordpress"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "images/js.png",
+                        "title": "JavaScript"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "images/html.png",
+                        "title": "Html"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "images/css.png",
+                        "title": "Css"
+                    }
+                }
+            ]
+        }
+    ],
+    "icons": {
+        "downWhite" : "images/down-white.png",
+        "downBlue" : "images/down-blue.png",
+        "topWhite" : "images/top-white.png",
+        "topBlue": "images/top-blue.png",
+        "magic": "images/magic.png"
+    }
+}
